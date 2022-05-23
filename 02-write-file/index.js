@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const question = 'Hi! Let\'s go ? '
+const question = 'Hi! Let\'s go ? ';
 
 
 function go() {
